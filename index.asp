@@ -1,0 +1,99 @@
+<html>
+
+<head>
+
+<title>Griff Jay's Career Projects</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+
+
+
+<body bgcolor="#FFFFFF">
+<p align="center"><b><font size="+2">Griff Jay's Career Projects</font></b></p>
+<div align="center">
+  <p><b><font size="+1" color="#0000FF">Click On Each Map For Details</font></b> 
+  </p>
+</div>
+<table width="82%" border="0" cellpadding="10">
+  <tr>
+    <td width="9%">&nbsp; </td>
+    <td width="10%">
+      <p><a href="USwithProjects.htm" target="_self"><img src="t_US.jpg" width="181" height="134" border="0" alt="Projects Nationwide"></a></p>
+      <p align="center"><font color="#000000">U.S.A</font></p>
+    </td>
+    <td width="16%">
+      <p><a href="WashDCprojects.htm" target="_self"><img src="t_WashDC.jpg" width="132" height="132" border="0" alt="Washington D.C. Projects"></a></p>
+      <p align="center">Washington D.C.</p>
+    </td>
+    <td width="23%">
+      <p><a href="AK_HIProjects.htm" target="_self"><i><img src="t_Alaska.jpg" width="189" height="132" border="0" alt="Alaska Projects"></i></a></p>
+      <p align="center">Alaska</p>
+    </td>
+    <td width="19%"> 
+      <p align="center"><a href="AK_HIProjects.htm" target="_self"><img src="t_Hawaii.jpg" width="151" height="126" border="0" alt="Hawaii Projects "></a></p>
+      <p align="center">Hawaii</p>
+    </td>
+    <td width="23%">
+      <p><a href="Indonesiaprojects.htm" target="_self"><img src="t_Indonesia.jpg" width="184" height="130" border="0" alt="Indonesian Projects" align="top"></a></p>
+      <p align="center">Indonesia</p>
+    </td>
+  </tr>
+</table>
+<table width="99%" border="0" cellpadding="10">
+  <tr> 
+    <td width="34%"> 
+      <div align="center"></div>
+    </td>
+    <td width="37%"> 
+      <p align="center"><a href="RapidProjectSpecUsingObject.htm"><img src="specoff.gif" width="215" height="92" border="0" usemap="#Map3" alt="Conundrums and Solutions"><map name="Map3"> 
+          <area shape="rect" coords="-87,-1,214,100" href="RapidProjectSpecUsingObjectTechnology.htm" target="_blank" alt="Rapid Project Spec Using Object Technology" title="Rapid Project Spec Using Object Technology"> 
+        </map></a></p>
+    </td>
+    <td width="29%"> 
+      <div align="center">Test text </div>
+    </td>
+  </tr>
+  <tr> 
+    <td width="34%" height="108"> 
+      <div align="center"> 
+        <p><i><img src="contactoff.gif" width="175" height="75" usemap="#Map" border="0" alt="Contact Me"><map name="Map"> 
+            <area shape="rect" coords="-117,-4,177,133" href="Corvallis.htm" target="_blank" alt="Contact Info" title="Contact Info"> 
+          </map></i></p>
+      </div>
+    </td>
+    <td width="37%" height="108"> 
+      <div align="center"> 
+        <p><img src="sketchoff.gif" alt="Griff's Resume" name="Image1" width="175" height="75" border="0" usemap="#Image1Map">        </p>
+      </div>
+    </td>
+    <td width="29%" height="108"> 
+      <div align="center"> 
+        <p><img src="summaryoff.gif" width="175" height="75" usemap="#Map4" border="0" alt="Text Version">
+          <map name="Map4"> 
+            <area shape="rect" coords="-44,-2,176,97" alt="Project Summary - Text Version" title="Project Summary - Text Version" onClick="MM_openBrWindow('ProjectSummaries.htm','ProjectSummaries','toolbar=yes,location=yes,status=yes,scrollbars=yes,resizable=yes,width=300,height=800')"> 
+        </map></p>
+      </div>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<map name="Image1Map">
+  <area shape="rect" coords="1,0,178,71" href="#" onClick="MM_openBrWindow('jaybioWeb.htm','GriffJayBio','toolbar=yes,location=yes,status=yes,scrollbars=yes,resizable=yes,width=400,height=700')">
+</map>
+</body>
+
+</html>
+
